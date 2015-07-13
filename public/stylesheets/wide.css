@@ -7,7 +7,7 @@ body {
 nav {
 	float: left; width: 15%; height: 200px;
 }
-nav span {
+nav span, footer span {
 	margin: 0px 100px 0px 0px;
 }
 section {
